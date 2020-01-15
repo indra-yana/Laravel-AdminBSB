@@ -1,6 +1,7 @@
-# laravel-adminBSB
+# Laravel AdminBSB-MaterialDesign
 
-laravel 6 with AdminBSB templating
+Laravel 6.10 templating with AdminBSB-MaterialDesign (free admin template based on Bootstrap 3.x Framework and Google Material Design)
+[Original Project](https://github.com/gurayyarar/AdminBSBMaterialDesign)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
